@@ -1,4 +1,4 @@
-# Lightburn FIX
+# Lightburn Tweak
 
 Repozytorium zawiera edytowany plik z tłumaczeniem na język polski, umożliwiający zwężenie menu "Laser".
 
