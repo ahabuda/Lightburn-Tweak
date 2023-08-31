@@ -32,4 +32,4 @@ Krok 2: Przenieś pobrany plik do folderu "languages" z zainstalowanym Lightburn
 Krok 3: Włącz Lightburn i zwęź menu.
 ## Screeny
 
-<img src="https://github.com/ahabuda/Lightburn-FIX/blob/main/screenshots/LB-Fix.jpg" width="1012" />
+<img src="https://github.com/ahabuda/Lightburn-Tweak/blob/1.4.01/LB-Fix-1401.jpg" width="1012" />
