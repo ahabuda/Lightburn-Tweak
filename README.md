@@ -6,7 +6,7 @@ Repozytorium zawiera edytowany plik z tłumaczeniem na język polski, umożliwia
 
 ## Co zostało zmienione?
 
-Zmienione zostały 3 wyrażenia:
+Zmienione zostały 6 wyrażeń:
 
 💠 Początek układu współrzędnych ➡️ Idź do 0/0
 
