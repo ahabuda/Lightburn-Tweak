@@ -21,6 +21,7 @@ Zmienione zostały 3 wyrażenia:
 💠 Użyj punktu początkowego zaznaczonego obiektu ➡️ Użyj pkt. pocz. zaznacz. ob.
 
 
+
 ## Instalacja
 Krok 0: ⚠️ Bezwzględnie wykonaj kopię zapasową oryginalnego pliku "LightBurn_pl.qm". Znajdziesz go w folerze "languages" (domyślnie: C:\Program Files\LightBurn\languages).
 
