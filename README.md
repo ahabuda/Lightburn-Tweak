@@ -2,17 +2,19 @@
 
 Repozytorium zawiera edytowany plik z tłumaczeniem na język polski, umożliwiający zwężenie menu "Laser".
 
-⚠️ Przetestowane z wersją 1.3.01 ⚠️
+⚠️ Przetestowane z wersją 1.4.01 ⚠️
 
 ## Co zostało zmienione?
 
 Zmienione zostały 3 wyrażenia:
 
 💠 Początek układu współrzędnych ➡️ Idź do 0/0
-
 💠 Idź do punktu początkowego ➡️ Idź do pkt. pocz.
-
 💠 Użyj punktu początkowego zaznaczonego obiektu ➡️ Użyj pkt. pocz. zaznaczonego obiektu
+💠 Rozpocznij od: ➡️ Start:
+💠 Wycinaj wybrane elementy graficzne ➡️ Wycinaj wybrane el.
+💠 Użyj punktu początkowego zaznaczonego obiektu ➡️ Użyj pkt. pocz. zaznacz. ob.
+
 
 ## Instalacja
 Krok 0: ⚠️ Bezwzględnie wykonaj kopię zapasową oryginalnego pliku "LightBurn_pl.qm". Znajdziesz go w folerze "languages" (domyślnie: C:\Program Files\LightBurn\languages).
